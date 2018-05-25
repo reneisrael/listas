@@ -1,0 +1,8 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/reneisrael/listas/master/sut01.m3u", 
+        "logos": "", 
+        "image": "/run/media/rn/80GB/Proyectos/plugin.video.renee/resources/images/Steen.png", 
+        "name": "Steven Universe Temporada 1"
+    }
+]
