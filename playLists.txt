@@ -4,5 +4,11 @@
         "logos": "", 
         "image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/db/Steen.png", 
         "name": "Steven Universe Temporada 1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/reneisrael/listas/master/sut02.m3u", 
+        "logos": "", 
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/db/Steen.png", 
+        "name": "Steven Universe Temporada 2"
     }
 ]
